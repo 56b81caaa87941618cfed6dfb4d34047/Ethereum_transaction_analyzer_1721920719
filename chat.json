@@ -1,6 +1,15 @@
 [
     {
         "role": "user",
+        "content": "add a button that says hey there",
+        "message_id": "guest25072024160613",
+        "timestamp": "25072024160623",
+        "component_file_name": "purple_header_component_1721920722",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "add a button that says hello world",
         "message_id": "guest25072024160451",
         "timestamp": "25072024160452",

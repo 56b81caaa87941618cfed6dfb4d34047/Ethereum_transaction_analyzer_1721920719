@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a live feed section to display latest Ethereum transactions\", \"checked\": true}, {\"feature\": \"Implement a search functionality to query specific transactions by hash\", \"checked\": false}, {\"feature\": \"Integrate interactive charts for analyzing transaction patterns over time\", \"checked\": false}, {\"feature\": \"Include a user authentication system for personalized analysis and notifications\", \"checked\": false}, {\"feature\": \"Create a settings page for users to customize their analysis parameters\", \"checked\": false}, {\"feature\": \"Add a feature to calculate transaction fees in real-time\", \"checked\": false}], \"input_token_count\": 297, \"output_token_count\": 122, \"time_taken\": \"0:00:06.716835\"}",
+        "message_id": "guest25072024153424",
+        "timestamp": "25072024153433",
+        "component_file_name": "purple_feature_grid_component_1721920722",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to have a specific functionality when clicked, or should it purely be for display purposes?\", \"option1\": \"Yes, it should have a specific functionality.\", \"option2\": \"No, it's just for display.\"}, {\"question 2\": \"Where would you like the 'Hello World' button positioned in relation to the sidebar?\", \"option1\": \"Above the sidebar.\", \"option2\": \"Below the sidebar.\"}], \"input_token_count\": 343, \"output_token_count\": 108, \"time_taken\": \"0:00:03.973265\"}",
+        "message_id": "guest25072024153424",
+        "timestamp": "25072024153430",
+        "component_file_name": "purple_feature_grid_component_1721920722",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button with \"Hello World\".",
         "message_id": "guest25072024153424",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Great, I will add a button that says hello world.",
-        "message_id": "guest25072024151929",
-        "timestamp": "25072024151930",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest25072024151929",
-        "timestamp": "25072024151929",
-        "component_file_name": "purple_header_component_1721920722",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "25072024153425",
+        "content": "The conversation began with the user requesting the AI to add a button labeled \"hello world\" to a project. The AI acknowledged this task but sought further information about the project by asking the user to describe it a bit more comprehensively. This indicates the AI's intent to understand the context or specific requirements around the task before proceeding.",
+        "timestamp": "25072024153433",
         "message_id": "guest25072024153424"
     }
 ]

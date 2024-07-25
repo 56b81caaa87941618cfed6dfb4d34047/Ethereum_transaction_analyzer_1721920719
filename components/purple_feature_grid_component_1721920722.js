@@ -55,7 +55,11 @@ Vue.component("purple_feature_grid_component_1721920722", {
             </div>
             <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm" :class="textPrimaryStyle">Built on a robust and secure infrastructure, our app ensures the privacy and integrity of your data. Rely on us for a trustworthy and dependable transaction analysis solution.</p></div>
         </div>
-    </div>`,
+    </div>
+    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4">
+        Hello World
+    </button>
+</div>`,
         data() {
             return {
                 expanded: false, 

@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to filter transactions\", \"checked\": true}, {\"feature\": \"Real-time transaction updates ticker\", \"checked\": true}, {\"feature\": \"Customizable dashboard widgets for different analytics\", \"checked\": false}, {\"feature\": \"User settings page for notification preferences\", \"checked\": false}, {\"feature\": \"Responsive design for mobile and tablet view\", \"checked\": true}, {\"feature\": \"Dark and light mode toggle\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 97, \"time_taken\": \"0:00:07.264775\"}",
         "timestamp": "25072024152127",
         "message_id": "guest25072024152118"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "25072024153424",
+        "message_id": "guest25072024153424"
     }
 ]

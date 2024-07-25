@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to have a specific functionality when clicked, or should it purely be for display purposes?\", \"option1\": \"Yes, it should have a specific functionality.\", \"option2\": \"No, it's just for display.\"}, {\"question 2\": \"Where would you like the 'Hello World' button positioned in relation to the sidebar?\", \"option1\": \"Above the sidebar.\", \"option2\": \"Below the sidebar.\"}], \"input_token_count\": 343, \"output_token_count\": 108, \"time_taken\": \"0:00:03.973265\"}",
+        "message_id": "guest25072024153424",
+        "timestamp": "25072024153430",
+        "component_file_name": "purple_feature_grid_component_1721920722",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button with \"Hello World\".",
         "message_id": "guest25072024153424",

@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the navbar's design, would you prefer a minimalistic approach or a more detailed design with icons and hover effects?\", \"option1\": \"Minimalistic approach\", \"option2\": \"Detailed design with icons and hover effects\"}, {\"question 2\": \"Should the navbar be fixed at the top of the page as users scroll, or remain static at the top of the page only?\", \"option1\": \"Fixed at the top as users scroll\", \"option2\": \"Static at the top of the page only\"}], \"input_token_count\": 414, \"output_token_count\": 119, \"time_taken\": \"0:00:06.778872\"}",
+        "message_id": "guest25072024153609",
+        "timestamp": "25072024153618",
+        "component_file_name": "purple_hero_component_1721920722",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a navbar with home, about and contact.",
         "message_id": "guest25072024153609",

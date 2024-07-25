@@ -66,7 +66,7 @@ Vue.component("dark_footer_component_1721920722", {
             </div>
         </div>
         <div class="flex justify-center py-4">
-            <button id="hello-world-button" class="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded">
+            <button id="hello-world-button" class="bg-gradient-to-r from-purple-600 to-pink-500 hover:from-purple-700 hover:to-pink-600 text-white font-bold py-3 px-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105">
                 Hello World
             </button>
         </div>

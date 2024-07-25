@@ -33,6 +33,13 @@ Vue.component("purple_hero_component_1721920722", {
                             </a>
                         </div>
                     </div>
+
+                    <div class="flex mt-4">
+                        <button class="flex-1 btn bg-purple-500 text-white hover:bg-purple-600 transition duration-150 ease-in-out rounded-lg shadow-md px-6 py-2">
+                            Hello World
+                        </button>
+                    </div>
+
     
                 </div>
     

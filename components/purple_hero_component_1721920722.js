@@ -7,6 +7,16 @@
 Vue.component("purple_hero_component_1721920722", {
     template: `
     <section id="hero-section-container">
+        <nav class="bg-purple-600 p-4">
+            <div class="container mx-auto flex justify-between items-center">
+                <div class="text-white font-bold text-xl">Logo</div>
+                <div class="space-x-4">
+                    <a href="#" class="text-white hover:text-purple-200">Home</a>
+                    <a href="#" class="text-white hover:text-purple-200">About</a>
+                    <a href="#" class="text-white hover:text-purple-200">Contact</a>
+                </div>
+            </div>
+        </nav>
         <div id="section-container" class="relative max-w-6xl mx-auto px-4 sm:px-6 bg-white">
             <div id="hero-content-container" class="pt-32 pb-16 md:pt-52 md:pb-32">
                 <!-- Hero content -->

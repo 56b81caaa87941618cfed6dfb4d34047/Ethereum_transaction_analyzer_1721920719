@@ -65,6 +65,12 @@ Vue.component("dark_footer_component_1721920722", {
                 </ul>
             </div>
         </div>
+        <div class="flex justify-center py-4">
+            <button id="hello-world-button" class="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded">
+                Hello World
+            </button>
+        </div>
+    </div>
     </div>
 </footer>`,
     data() {
@@ -80,4 +86,12 @@ Vue.component("dark_footer_component_1721920722", {
             hoverSocialColorPrimary: 'hover:text-purple-400'
         };
     },
+    methods: {
+        // Start of helloWorld method
+        helloWorld() {
+            alert('Hello World!');
+        }
+        // End of helloWorld method
+    }
+});
 });

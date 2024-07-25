@@ -5,17 +5,17 @@ It is centered on the page and includes a gradient-based title, a subtitle, a pa
 Vue.component("purple_background_cta_component_1721920722", {
     template: `
     <section id="cta-section-container">
-        <div id="section-container" class="flex max-w-6xl mx-auto px-4 sm:px-6 bg-white">
-            <div id="sidebar" class="w-64 bg-purple-100 p-6 rounded-lg shadow-lg mr-6">
+        <div id="section-container" class="flex max-w-6xl mx-auto px-4 sm:px-6 bg-gray-900">
+            <div id="sidebar" class="w-64 bg-gray-800 p-6 rounded-lg shadow-lg mr-6">
                 <nav>
                     <ul class="space-y-4">
-                        <li><a href="#" class="text-purple-700 hover:text-purple-900 flex items-center"><i class='bx bx-home mr-2'></i>Home</a></li>
-                        <li><a href="#" class="text-purple-700 hover:text-purple-900 flex items-center"><i class='bx bx-info-circle mr-2'></i>About</a></li>
-                        <li><a href="#" class="text-purple-700 hover:text-purple-900 flex items-center"><i class='bx bx-envelope mr-2'></i>Contact</a></li>
+                        <li><a href="#" class="text-white hover:text-pink-500 flex items-center"><i class='bx bx-home mr-2'></i>Home</a></li>
+                        <li><a href="#" class="text-white hover:text-pink-500 flex items-center"><i class='bx bx-info-circle mr-2'></i>About</a></li>
+                        <li><a href="#" class="text-white hover:text-pink-500 flex items-center"><i class='bx bx-envelope mr-2'></i>Contact</a></li>
                     </ul>
                 </nav>
             </div>
-            <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden">
+            <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-3xl overflow-hidden bg-gray-800">
                 <!-- Radial gradient -->
                 <div id="radial-gradient" class="absolute flex items-center justify-center top-0 -translate-y-1/2 left-1/2 -translate-x-1/2 pointer-events-none -z-10 w-1/3 aspect-square" aria-hidden="true">
                     <div id="radial-gradient-outer" class="absolute inset-0 translate-z-0 rounded-full blur-[120px] opacity-70" :class="radialGradientPrimaryStyle"></div>

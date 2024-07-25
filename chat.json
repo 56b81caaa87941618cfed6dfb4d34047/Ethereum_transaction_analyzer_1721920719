@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the page?\", \"option1\": \"Next to the 'Hello World' button\", \"option2\": \"Replace the 'Hello World' button\"}, {\"question 2\": \"Do you want any specific action to be triggered when the 'Hey There' button is clicked?\", \"option1\": \"Display a greeting message on the screen\", \"option2\": \"Open a modal window with contact information\"}], \"input_token_count\": 592, \"output_token_count\": 109, \"time_taken\": \"0:00:04.420943\"}",
+        "message_id": "guest25072024160613",
+        "timestamp": "25072024160631",
+        "component_file_name": "purple_header_component_1721920722",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button that says \"hey there\".",
         "message_id": "guest25072024160613",
